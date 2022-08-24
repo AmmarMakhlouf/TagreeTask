@@ -1,10 +1,15 @@
 # TagreeTask
 Search for clinics, doctors and services in different cities
+
 ## Prerequisites
 Laravel Framework 9.25.1
+
 Apache/2.4.51
+
 PHP 8.1.6
+
 MySQL 10.4.22-MariaDB
+
 ## Installation
 
 1- Download zip file of this respository.
