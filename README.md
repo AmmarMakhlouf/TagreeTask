@@ -18,7 +18,9 @@ MySQL 10.4.22-MariaDB
 
 3- Update the database connection, username and password info in the file .env
 
-4- Under the main Run the follwowing two commands
+4- Under the main Run the follwowing commands:
+
+composer update 
 
 php artisan migrate:fresh --seed
 
