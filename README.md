@@ -26,5 +26,5 @@ php artisan serve --port=8080
 
 5- Now the site is accessable under the link http://127.0.0.1:8080/
 
-Note you can change 8080 to any other port you choose.
+Note you can change 8080 to any another port you choose.
 
